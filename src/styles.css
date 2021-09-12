@@ -26,7 +26,6 @@
   transition: box-shadow 0.2s;
 }
 
-button:disabled,
-button[disabled] {
+button:disabled {
   color: #666666;
 }
